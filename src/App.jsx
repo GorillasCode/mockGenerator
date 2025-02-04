@@ -1,13 +1,11 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import MainScreen from './components/MainScreen'
-
+import MockGen from './components/MockGen'
 
 function App() {
-
   return (
     <>
-      <MainScreen/>
+      <MockGen />
     </>
   )
 }
